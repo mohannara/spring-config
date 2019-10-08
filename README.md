@@ -1,2 +1,2 @@
 # spring-config
-central spring configuration
+centralized spring configuration repository
